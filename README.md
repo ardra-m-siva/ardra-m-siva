@@ -5,30 +5,26 @@
 I'm a Full-Stack Developer with **1 year of professional experience** building responsive and scalable web applications using the **MERN Stack**. I enjoy creating clean, user-focused solutions and continuously improving my skills in modern web technologies.
 
 ---
-![](https://komarev.com/ghpvc/?username=ardra-m-siva&color=blue)
 
 ## 💻 Tech Stack
 
 **Frontend:**  
-React • JavaScript • TypeScript • HTML • CSS • Tailwind CSS • Bootstrap
+React • JavaScript • HTML • CSS • Tailwind CSS • Bootstrap 
 
 **Backend:**  
-Node.js • Express.js • REST APIs
-
-**Database:**  
-MongoDB • SQL
+Node.js • Express.js • REST APIs • JWT Authentication
 
 **State Management:**  
 Redux • Zustand
 
-**Tools:**  
-Git • GitHub • Postman • VS Code
+**Databases:**
+MongoDB • MySQL
 
+---
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,nextjs,redux,tailwind,bootstrap,git,github,vscode,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,sass,redux,vscode,ts,postman,vercel,npm&perline=10" />
 </p>
----
 
 ## 🚀 Featured Projects
 
@@ -48,7 +44,7 @@ Git • GitHub • Postman • VS Code
 
 ## 📊 GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ardra-m-sive&theme=algolia&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ardra-m-siva&theme=algolia&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <p align="center">
