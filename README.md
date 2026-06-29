@@ -1,38 +1,53 @@
-# Hi there 👋, I'm Ardra
+# Hi there 👋, I'm Ardra M S
 
-## 💻 Full-Stack Developer
+### Full-Stack Developer (MERN) | Computer Science Postgraduate
 
-I'm a passionate Full-Stack Developer with 1 year of professional experience building modern web applications.
+I'm a Full-Stack Developer with **1 year of professional experience** building responsive and scalable web applications using the **MERN Stack**. I enjoy creating clean, user-focused solutions and continuously improving my skills in modern web technologies.
 
-### 🚀 About Me
-- 💼 Full-Stack Developer
-- 🌱 Currently learning TypeScript
-- ⚡ Skilled in MERN Stack, Redux, Zustand, SQL
-- 🎨 Love creating responsive and user-friendly UIs
-- ✏️ Hobby: Drawing
+---
 
-### 🛠 Tech Stack
+## 💻 Tech Stack
 
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- React
+**Frontend:**  
+React • JavaScript • TypeScript • HTML • CSS • Tailwind CSS • Bootstrap
+
+**Backend:**  
+Node.js • Express.js • REST APIs
+
+**Database:**  
+MongoDB • SQL
+
+**State Management:**  
+Redux • Zustand
+
+**Tools:**  
+Git • GitHub • Postman • VS Code
+
+---
+
+## 🚀 Featured Projects
+
+- 🏗 **CivilAquire** – Construction services platform
+- 🎓 **LevelUp Learn** – Interactive learning platform
+- 🎲 **Ludo Pixel** – Responsive multiplayer Ludo game
+
+---
+
+## 🌱 Currently Learning
+
 - Next.js
-- Node.js
-- Express.js
-- MongoDB
-- SQL
-- Tailwind CSS
-- Bootstrap
-- Redux
-- Zustand
-- Git & GitHub
+- TypeScript
+- Advanced React Patterns
 
-### 📌 Projects
+---
 
-- 🎮 LevelUp Learn
-- 🎲 Ludo Pixel
-- 🏗 CivilAquire
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ardra-m-siva&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ardra-m-siva&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardra-m-siva&layout=compact&theme=transparent&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ardra-m-siva&theme=transparent&hide_border=true"/>
+</p>
