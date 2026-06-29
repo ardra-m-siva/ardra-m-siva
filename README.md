@@ -20,11 +20,11 @@ Redux • Zustand
 **Databases:**
 MongoDB • MySQL
 
----
-
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,sass,redux,vscode,ts,postman,vercel,npm&perline=10" />
 </p>
+
+---
 
 ## 🚀 Featured Projects
 
@@ -43,9 +43,6 @@ MongoDB • MySQL
 ---
 
 ## 📊 GitHub Stats
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ardra-m-siva&theme=algolia&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ardra-m-siva&show_icons=true&theme=transparent&hide_border=true" height="170"/>
