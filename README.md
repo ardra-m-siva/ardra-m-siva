@@ -35,6 +35,4 @@ I'm a passionate Full-Stack Developer with 1 year of professional experience bui
 - 🎲 Ludo Pixel
 - 🏗 CivilAquire
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ardra-m-siva&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ardra-m-siva&layout=compact&theme=tokyonight)
